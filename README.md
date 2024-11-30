@@ -1,14 +1,3 @@
----
-title: "Advanced SQL"
-author: "Mohamed El Arabi TEFFAHI"
-date: "2023-01-23"
-categories: [Projet DSTI]
-image: "6554783.jpg"
-format:
-  html:
-    highlight-style: github-dark
----
-
 # **complex SQL queries**
 
 The SQL queries below are some examples of complex SQL queries mainly on the sample Microsoft database [Wide World Importers sample database](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0) and running on SQLServer.
