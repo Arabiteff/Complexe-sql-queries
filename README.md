@@ -1,4 +1,4 @@
-# **complex SQL queries**
+# **Complex SQL queries**
 
 The SQL queries below are some examples of complex SQL queries mainly on the sample Microsoft database [Wide World Importers sample database](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0) and running on SQLServer.
 
